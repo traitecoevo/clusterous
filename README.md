@@ -45,7 +45,7 @@ Clusterous is being developed by [SIRCA](http://www.sirca.org.au/) team as part 
 BDKD project partners whom gave us their support and guidance: 
 
 - [Data61](http://www.csiro.au/en/Research/D61): Stephen Hardy, Lachlan McCallum, Simon O’Callaghan, Daniel Steinberg, Alastair Reid
-- [Macquarie University](https://www.mq.edu.au/): Deb Kane, Daniel Falster, Josh Toomey, James Camac
+- [Macquarie University](https://www.mq.edu.au/): Deb Kane, Daniel Falster, Rich FitzJohn, Josh Toomey, James Camac
 - [The University of Sydney](http://sydney.edu.au/): Dietmar Muller, Simon Williams, Michael Chin
 
 Open source projects:
